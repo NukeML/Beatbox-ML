@@ -68,7 +68,7 @@
 
 .director-photo-container img {
     width: 4em;
-    height: 4em;
+    height: auto;
     aspect-ratio: 1 / 1;
 /*     height: max-content; */
 }
