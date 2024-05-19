@@ -70,6 +70,7 @@
     width: 4em;
     height: auto;
     aspect-ratio: 1 / 1;
+    object-fit: cover;
 /*     height: max-content; */
 }
 
