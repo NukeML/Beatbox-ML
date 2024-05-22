@@ -192,8 +192,8 @@ canvas {
 .chat-profile img {
     width: 1.6em;
     height: auto;
-    aspect-ratio: 1 / 1;
-    object-fit: cover;
+    /* aspect-ratio: 1 / 1; */
+    /* object-fit: cover; */
 /*     height: max-content; */
 }
 
