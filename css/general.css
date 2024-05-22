@@ -603,6 +603,16 @@ body {
     margin-top: -1em;
 }
 
+.error-text.phone {
+    color: beige;
+    visibility: visible;
+}
+
+.error-text.phone.error {
+    color: rgb(255, 89, 70);
+    /* visibility: visible; */
+}
+
 .error-text-firstname {
     font-size: 1em;
     font-weight: 400;
@@ -689,6 +699,7 @@ body {
     justify-content: space-between;
     color: beige;
     margin-top: 0.8em;
+    visibility: hidden;
 }
 
 

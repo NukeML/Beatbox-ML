@@ -222,6 +222,7 @@ function validatePhone() {
         phoneError.textContent = "* Must be a valid phone number or left blank";
         return false;
     }
+    phoneError.textContent = "* Optional"
     return true;
 }
 
